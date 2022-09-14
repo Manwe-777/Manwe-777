@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Manwe-777/Manwe-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Manuel Etchegaray, i'm an Argentine software developer! :shipit:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on some open source projects:
+- [ToolDB](https://github.com/Manwe-777/tool-db): A decentralized database and data sharing for peer to peer applications running mainly on the browser, without central servers!
+- [MTG Arena Tool](https://github.com/mtgatool/mtgatool-desktop): A desktop overlay and companion app for Magic the Gathering: Arena, able to run seamlessly in the browser; "MTG Arena Tool is a collection browser, a deck tracker and a statistics manager for MTG Arena."
+
+I'm a crypto and web3 enthusiast at heart, decentralize everything! :collision:
+
+:computer: Stuff I work with lately;
+
+- Typescript / Javascript
+- React
+- Webpack
+- Nodejs
