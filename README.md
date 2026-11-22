@@ -4,6 +4,11 @@ I'm Manuel Etchegaray, a software developer from Argentina :shipit:
 
 I build peer-to-peer, self-hosted software, and I'm a crypto and web3 enthusiast at heart. Decentralize everything! :collision:
 
+
+<p align="center">
+  <img src="./ghost-cat.svg" width="420" alt="ASCII ghost cat">
+</p>
+
 🔭 **Open source projects**
 - [ToolDB](https://github.com/Manwe-777/tool-db): a decentralized database for peer-to-peer apps that runs anywhere, with no central servers, now powered by Nostr.
 - [MTG Arena Tool](https://github.com/mtgatool/mtgatool-desktop): a collection browser, deck tracker and stats manager for Magic: The Gathering Arena, available as a desktop overlay or in the browser.
