@@ -34,4 +34,4 @@ I build peer-to-peer, self-hosted software, and I'm a crypto and web3 enthusiast
 
 :computer: **Stuff I work with**
 
-TypeScript · React / Next.js · Rust · Node.js · Tailwind CSS · Webpack · Docker · Claude / OpenCode 🤖
+![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,rust,nodejs,tailwind,webpack,docker)
